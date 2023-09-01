@@ -7,15 +7,17 @@ Matrix Puzzle is an engaging and brain-teasing console-based game implemented in
 ## RULES OF GAME 
 
 1. You can move only one step at a time by arrow keys.
+   ```  
         Move Up   : By Up arrow key
         Move Down : By Dowm arrow key
         Move Left : By Left arrow key
         Move Right: By Right arrow key
+   ```
 2. You can move number at empty position only.
 3. For each valid move, total number of moves will decrease by 1.
-4. Winning Situation:
+4. Winning Situation:<br>
    Numbers in a 3*3 matrix should be in order 1 to 8.
-5. You can exit the game at any time by pressing 'E' or 'e'
+5. You can exit the game at any time by pressing 'E' or 'e'. <br>
    Try to win the game in minimum number of moves.
 
 ## GOALS 
