@@ -234,6 +234,7 @@ int main()
                     printf("\n\n\t\tNot Allowed \t");     
             }
         }
+        showMatrix(arr);
 
         if(!maxTry)
             printf("\n\a    YOU LOSE!          \a\a\n");
